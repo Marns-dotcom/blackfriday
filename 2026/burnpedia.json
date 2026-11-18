@@ -1,0 +1,14 @@
+{
+  "name": "Burnpedia",
+  "url": "https://burnpedia.app/black-friday?utm_source=indiegoodies&utm_medium=deal-list&utm_campaign=bf2026",
+  "description": "Pinterest scheduler with AI Pin creation, best-time posting, bulk upload, evergreen rotation and analytics",
+  "category": "marketing",
+  "platforms": ["web"],
+  "deal": "40% off the first year of any yearly plan",
+  "pricing": "subscription",
+  "price": { "regular": 149, "sale": 89.40, "currency": "USD" },
+  "discount": 40,
+  "startDate": "2026-11-16",
+  "endDate": "2026-11-30",
+  "icon": "https://burnpedia.app/favicon.png"
+}
